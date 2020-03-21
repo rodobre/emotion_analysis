@@ -12,6 +12,12 @@ build/
 develop-eggs/
 dist/
 downloads/
+de_jale/*
+de_chef/*
+emotion_model.hdf5
+haarcascade_frontalface_default.xml
+hqdefault.png
+model_v6_23.hdf5
 eggs/
 .eggs/
 lib/
